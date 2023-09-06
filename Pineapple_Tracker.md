@@ -4,7 +4,7 @@ Welcome to the Portfolio & Pineapple Express Dashboard, a one-stop solution for 
 
 ## Features
 ### Portfolio Dashboard
-<img src="./images/Data Table.png" alt="Asset Data Table" width="200"/>
+![Asset Data Table](./images/Data Table.png)
 
 **Gauge Chart:** Provides a quick snapshot of your portfolio's health.
 **Pie Chart:** Breaks down asset allocation to visualize diversification.
