@@ -41,7 +41,6 @@ Welcome to the Portfolio & Pineapple Express Dashboard, a one-stop solution for 
 2. **Sub-Plots:** Additional metrics like RSI, MACD, and OBV can be viewed in sub-plots for deeper analysis.
 
 <br>
-<br>
 
 # Backend Development
 ## Python & Dash
