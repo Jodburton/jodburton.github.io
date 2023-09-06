@@ -5,12 +5,6 @@
 ### Data Science Projects 
 
 [Pinapple Portfolio Tracker](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
+![Main Header](https://github.com/Jodburton/jodburton.github.io/assets/141245415/e84b128c-36da-45e8-bda1-91ff92337cb3)
 
 ---
