@@ -1,40 +1,20 @@
 <!DOCTYPE html>
-<html lang="{{ site.lang | default: 'en-US' }}">
+<html lang="{{ site.lang | default: "en-US" }}">
   <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <style>
-      /* Custom CSS for Dark Mode */
+      /* Custom CSS for background and text color */
       body {
-        background-color: #121212; /* Dark gray */
-        color: #FFFFFF; /* White */
-      }
-      a {
-        color: #BB86FC; /* Light purple for links */
-      }
-      header {
-        background-color: #1F1B24; /* Slightly lighter gray for header */
-      }
-
-      /* Layout Fixes */
-      .wrapper {
-        display: flex;
-        flex-direction: column;
-      }
-      header {
-        flex: 0 0 auto;
-        width: 100%; /* Full width */
-        overflow-x: auto; /* Horizontal scrolling */
-      }
-      section {
-        flex: 1 0 auto;
+        background-color: black;
+        color: white;
       }
     </style>
     
-    {% seo %}
-    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+{% seo %}
+    <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
     <!--[if lt IE 9]>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
     <![endif]-->
