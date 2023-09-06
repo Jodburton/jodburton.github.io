@@ -1,11 +1,11 @@
-# Portfolio & Pineapple Express Dashboard
+# Pineapple Express - Portfolio Dashboard
 ## Overview
 Welcome to the Portfolio & Pineapple Express Dashboard, a one-stop solution for all your investment analysis needs. This dashboard is not just a financial tool; it's a showcase of data analytics, financial acumen, and software development skills. Whether you're a seasoned investor or a beginner, this dashboard provides valuable insights into your investment portfolio and the broader market.
 
 <br>
 
-  # Features
-  <br>
+# Features
+<br>
   
 ## **Portfolio Dashboard**
 ![Data Table](https://github.com/Jodburton/jodburton.github.io/assets/141245415/c7593f3d-2d2f-4e2b-9ab1-2ed7b176aaa9)
