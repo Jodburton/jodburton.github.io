@@ -23,6 +23,11 @@ Welcome to the Portfolio & Pineapple Express Dashboard, a one-stop solution for 
 
 3. **Sharpe Ratio Bar Chart:** Compares the risk-adjusted returns of different assets in your portfolio.
 
-### Technical Analysis
-**Interactive Chart:** Real-time candlestick charts with overlay indicators like Bollinger Bands, SMA, and EMA.
-**Sub-Plots:** Additional metrics like RSI, MACD, and OBV can be viewed in sub-plots for deeper analysis.
+## Technical Analysis
+<img width="879" alt="Pineapple Chart " src="https://github.com/Jodburton/jodburton.github.io/assets/141245415/d87b583b-90b3-47e5-94bf-08387c3c010f">
+<img width="878" alt="Pineapple Chart Related Articles" src="https://github.com/Jodburton/jodburton.github.io/assets/141245415/17245068-7310-4056-b58e-bbf3b8888ed5">
+<br>
+
+1. **Interactive Chart:** Real-time candlestick charts with overlay indicators like Bollinger Bands, SMA, and EMA.
+
+2. **Sub-Plots:** Additional metrics like RSI, MACD, and OBV can be viewed in sub-plots for deeper analysis.
