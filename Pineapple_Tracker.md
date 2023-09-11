@@ -1,6 +1,6 @@
 # Pineapple Express - Portfolio Dashboard
 ## Overview
-Welcome to the Portfolio & Pineapple Express Dashboard, a one-stop solution for all your investment analysis needs. This dashboard is not just a financial tool; it's a showcase of data analytics, financial acumen, and software development skills. Whether you're a seasoned investor or a beginner, this dashboard provides valuable insights into your investment portfolio and the broader market.
+Welcome to Pineapple Express, a one-stop solution for all your investment analysis needs. This dashboard is not just a financial tool; it's a showcase of data analytics, financial acumen, and software development skills. Whether you're a seasoned investor or a beginner, this dashboard provides valuable insights into your investment portfolio and the broader market.
 
 <br>
 
@@ -44,7 +44,7 @@ Welcome to the Portfolio & Pineapple Express Dashboard, a one-stop solution for 
 
 # Backend Development
 ## Python & Dash
-The backbone of the Pineapple Express Portfolio Dashboard is Python and Dash. I had to dive deep into both the Python language and the Dash framework to make this project a reality. The process involved learning how to fetch real-time financial data, manipulate it for various types of analysis, and then serve it in a way that's both efficient and user-friendly.
+The backbone of the Portfolio Dashboard is Python and Dash. I had to dive deep into both the Python language and the Dash framework to make this project a reality. The process involved learning how to fetch real-time financial data, manipulate it for various types of analysis, and then serve it in a way that's both efficient and user-friendly.
 
 ## Data Analytics
 Given my background in data analytics and data science, implementing complex algorithms for portfolio optimization, risk assessment, and other financial metrics was both challenging and rewarding. This wasn't just a coding exercise; it required a deep understanding of financial markets and metrics.
@@ -74,4 +74,4 @@ Another challenge was balancing the complexity of financial data with user exper
 Ensuring that the dashboard was responsive across various screen sizes required a deep dive into the nitty-gritty of CSS and JavaScript. This was a valuable lesson in frontend development that I had to learn.
 
 ## Conclusion
-The Pineapple Express Portfolio Dashboard is more than just a product; it's a journey. It encapsulates the challenges I faced, the skills I honed, and the knowledge I acquired. From backend algorithms to frontend aesthetics, from Python loops to CSS classes, every line of code has been a step in my learning journey. This dashboard is a portfolio not just of financial assets, but also of my skills, challenges, and triumphs.
+The Portfolio Dashboard is more than just a product; it's a journey. It encapsulates the challenges I faced, the skills I honed, and the knowledge I acquired. From backend algorithms to frontend aesthetics, from Python loops to CSS classes, every line of code has been a step in my learning journey. This dashboard is a portfolio not just of financial assets, but also of my skills, challenges, and triumphs.
