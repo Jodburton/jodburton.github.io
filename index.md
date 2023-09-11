@@ -10,7 +10,7 @@
 
 ## Data Science Projects 
 
-[Pinapple Express - Portfolio Tracker](/Pineapple_Tracker)
+[Pinapple Express - Portfolio Tracker](/Certifications)
 <br>
 <br>
 ![Main Header](https://github.com/Jodburton/jodburton.github.io/assets/141245415/e84b128c-36da-45e8-bda1-91ff92337cb3)
