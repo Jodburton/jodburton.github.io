@@ -1,11 +1,11 @@
 title: James O D Burton
 logo: "images/image (1).png?raw=true"
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  <br>
-  2+ years of data visualisation and manipulation experience with extensive finance experience. Master's degree in Finance & Investment from Loughborough University.
-  <br><br>
-  Currently working at GE HealthCare, in their well reknowned leadership program.  
-  <br><br>
+<br>
+Over 2 years of hands-on experience in data analytics and visualization, backed by certifications in Python and SQL. Specialized focus on corporate finance.
+<br>
+Currently part of the prestigious leadership program at GE HealthCare, where I'm leveraging my data analytics skills in Python and SQL to drive financial decision-making.
+
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
