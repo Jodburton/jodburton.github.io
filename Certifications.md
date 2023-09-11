@@ -4,7 +4,7 @@
 ## Data Analyst Associate 
 
 ### SQL
-[Markdown+Guide.pdf](https://github.com/Jodburton/jodburton.github.io/files/12579679/Markdown%2BGuide.pdf)
+[SQL Certificate.pdf](https://github.com/Jodburton/jodburton.github.io/files/12579709/SQL.Certificate.pdf)
 
 ## Data Analyst Professional 
 
