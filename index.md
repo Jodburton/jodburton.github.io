@@ -2,6 +2,12 @@
 
 ---
 
+## Certifications 
+[Link to Certifications](/Pineapple_Tracker)
+<br>
+<br>
+
+
 ## Data Science Projects 
 
 [Pinapple Express - Portfolio Tracker](/Pineapple_Tracker)
